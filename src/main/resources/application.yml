@@ -31,11 +31,11 @@ spring:
         # 合并多个DruidDataSource的监控数据
     useGlobalDataSourceStat: 'true'
   datasourceread:
-    url: jdbc:mysql://123.206.85.162:3306/test_mysql
+    url: jdbc:mysql://xxxxxxxxxx:XXXX/test_mysql
     username: media7312
     password: 731296997
   datasourcewrite:
-    url: jdbc:mysql://123.206.85.162:3306/test_shop
+    url: jdbc:mysql://xxxxxxxxxx:XXXX/test_shop
     username: media7312
     password: 731296997
 
